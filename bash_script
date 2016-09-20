@@ -1,0 +1,4 @@
+#!/bin/bash
+
+MESSAGE="This is a simple script"
+echo $MESSAGE
